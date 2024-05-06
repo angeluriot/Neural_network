@@ -1,4 +1,4 @@
-# Neural Network
+# 🤖 Neural Network
 
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet)
 ![Language](https://img.shields.io/badge/Language-Python-0052cf)
@@ -10,7 +10,7 @@
 
 This is a handmade neural network library for Python. It supports multiple layers, activation functions, optimizers... You can easily create a model and train it with backpropagation.
 
-*(I made this project to show that I can make a neural network whithout any library, if you need a neural network library, **Keras** will be much better than this)*
+*(I made this project to show that I can make a neural network whithout any library, if you need a neural network library, [**Keras**](https://keras.io/) or [**PyTorch**](https://pytorch.org/) will be much better than this)*
 
 <br/>
 
@@ -20,20 +20,17 @@ This is a handmade neural network library for Python. It supports multiple layer
 
 <br/>
 
-# Summary
+# 📋 Summary
 
-* **[Summary](#summary)**
-* **[Features](#features)**
-	* [Layers](#layers)
-	* [Optimizers](#optimizers)
-	* [Loss functions](#loss-functions)
-* **[Install](#install)**
-* **[Tests](#tests)**
-* **[Credits](#credits)**
+* **[📋 Summary](#-summary)**
+* **[✨ Features](#-features)**
+* **[🛠️ Install](#%EF%B8%8F-install)**
+* **[🧪 Tests](#-tests)**
+* **[🙏 Credits](#-credits)**
 
 <br/>
 
-# Features
+# ✨ Features
 
 ### Layers
 
@@ -53,7 +50,7 @@ They are used to calculate the error of the network. You can choose between **Ne
 
 <br/>
 
-# Install
+# 🛠️ Install
 
 You need **Numpy** to install the library:
 ```shell
@@ -72,12 +69,12 @@ from neural_network.losses import NegativeLogLikelihood, MeanSquaredError, MeanA
 
 <br/>
 
-# Tests
+# 🧪 Tests
 
 You can find a **jupyter notebook** in the **tests** folder, it contains a simple example of how to use the library by creating a model that classify handwritten digits.
 
 <br/>
 
-# Credits
+# 🙏 Credits
 
 * [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
